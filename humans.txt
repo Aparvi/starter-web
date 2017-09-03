@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Surender Panuganti surender.panuganti@gmail.com @surender
 
 # THANKS
 
