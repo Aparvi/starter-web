@@ -17,6 +17,7 @@ demos.
 
 ## How To Continue
 
+Please fork this repository and then issue Pull Requests for review.
 ## Deployment
 
 This is a simple web project, deployment an be on any web server
